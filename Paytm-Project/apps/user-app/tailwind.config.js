@@ -8,7 +8,7 @@ export default {
     // Or if using `src` directory:
     "./src/**/*.{js,ts,jsx,tsx,mdx}",
     "../../packages/ui//src/**/*.{js,ts,jsx,tsx,mdx}",
-    "../docs/app/**/*.{js,ts,jsx,tsx,mdx}"
+    
   ],
   theme: {
     extend: {},
